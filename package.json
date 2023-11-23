@@ -1,0 +1,25 @@
+{
+  "name": "one-view",
+  "version": "0.0.1",
+  "description": "one-view is AI based Transport Business Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankurdotcom/one-view.git"
+  },
+  "keywords": [
+    "Transport",
+    "AI",
+    "Articial",
+    "Intelligence"
+  ],
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ankurdotcom/one-view/issues"
+  },
+  "homepage": "https://github.com/ankurdotcom/one-view#readme"
+}
